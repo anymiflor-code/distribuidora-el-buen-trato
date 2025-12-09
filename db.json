@@ -1,0 +1,38 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Arroz Extra",
+      "marca": "La Cigüeña",
+      "categoria": "cereales",
+      "precio": 25.50,
+      "unidades": 100,
+      "presentacion": "Bolsa 1kg",
+      "imagen": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=300&fit=crop",
+      "descripcion": "Arroz de grano largo, ideal para todo tipo de platillos"
+    },
+    {
+      "id": 2,
+      "nombre": "Frijol Negro",
+      "marca": "La Costeña",
+      "categoria": "cereales",
+      "precio": 32.00,
+      "unidades": 80,
+      "presentacion": "Bolsa 1kg",
+      "imagen": "https://images.unsplash.com/photo-1543831113-c823c4a606b6?w=400&h=300&fit=crop",
+      "descripcion": "Frijol negro de primera calidad"
+    },
+    {
+      "id": 3,
+      "nombre": "Papas Fritas",
+      "marca": "Backed",
+      "categoria": "botanas",
+      "precio": 15.00,
+      "unidades": 150,
+      "presentacion": "Bolsa 45g",
+      "imagen": "https://images.unsplash.com/photo-1566478989037-eec170784d0b?w=400&h=300&fit=crop",
+      "descripcion": "Papas fritas con sal"
+    }
+  ],
+  "pedidos": []
+}
